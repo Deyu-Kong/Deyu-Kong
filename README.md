@@ -15,8 +15,6 @@
 
 📍 Nanjing / Hangzhou, China
 
-📫 Reach me: **dykong@smail.nju.edu.cn** 
-
 
 
 ---
@@ -62,12 +60,4 @@
 - 📝 **[deyu-kong.github.io](https://github.com/Deyu-Kong/deyu-kong.github.io)** — Personal tech blog (CS, OS, AI Infra notes)
 
 
-> 💡 Looking to recruit / collaborate? → `dykong@smail.nju.edu.cn`
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deyu-Kong/Deyu-Kong/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deyu-Kong/Deyu-Kong/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deyu-Kong/Deyu-Kong/output/github-contribution-grid-snake.svg" />
-</picture>
+📫 Reach me: **dykong@smail.nju.edu.cn** 
