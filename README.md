@@ -6,12 +6,18 @@
   </a>
 </p>
 
-🎯 **Focus (priority order):** **AI Infra** → **Agent Infra** (containers / virtualization / kernel)
+🎯 **Focus 
+:** **AI Infra** | **Agent Infra** (containers / virtualization / linux kernel)
 
-🎓 MS in Computer Science @ **Nanjing University** (保送, GPA 3.96, rank 1/125 @ WHU undergrad)
+🎓 MS in Computer Science @ **Nanjing University** 
+
 🏗️ Currently: AI Infra Engineer Intern @ **Alibaba Cloud · Elastic Compute / Kangaroo**
+
 📍 Nanjing / Hangzhou, China
-📫 Reach me: **dykong@smail.nju.edu.cn** · [blog](https://deyu-kong.github.io)
+
+📫 Reach me: **dykong@smail.nju.edu.cn** 
+
+
 
 ---
 
@@ -50,21 +56,11 @@
 
 ---
 
-## 🔬 Selected Work
-
-| | |
-|---|---|
-| 🟦 **AI Infra** | Custom CUDA kernels, PagedAttention, speculative decoding (γ=8 → 3× speedup), prefix caching (TTFT −45%) |
-| 🟧 **Agent Infra** | VMM cold-start: pods 70→77, start time 2.8s→1.7s; guest net-stack removal design |
-| 🟪 **OS / Distributed** | "Software-Defined Ubiquitous OS" — reported at **SOSP 2025 WUOS Workshop** |
-
----
-
 ## 📌 Pinned Projects
 
 - 🚀 **[mini-infer](https://github.com/Deyu-Kong/mini-infer)** — C++/CUDA LLM inference engine from scratch (PagedAttention · speculative decoding · prefix caching)
 - 📝 **[deyu-kong.github.io](https://github.com/Deyu-Kong/deyu-kong.github.io)** — Personal tech blog (CS, OS, AI Infra notes)
-- 🧰 **[ContextExtractor](https://github.com/Deyu-Kong/ContextExtractor)** — Drag-and-drop context extractor for LLM interaction
+
 
 > 💡 Looking to recruit / collaborate? → `dykong@smail.nju.edu.cn`
 
