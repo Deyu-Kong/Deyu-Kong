@@ -2,11 +2,11 @@
 
 <p align="left">
   <a href="https://github.com/Deyu-Kong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=AI+Infra+%E2%9A%99%EF%B8%8F+Agent+Infra+%F0%9F%94%A7+Agent+%F0%9F%A4%96;Building+the+substrate+for+LLMs;From+CUDA+kernels+to+VMM+to+Agent+workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=AI+Infra+%E2%9A%99%EF%B8%8F+Agent+Infra+%F0%9F%94%A7;Building+the+substrate+for+LLMs;From+CUDA+kernels+to+VMM" alt="Typing SVG" />
   </a>
 </p>
 
-🎯 **Focus (priority order):** **AI Infra** → **Agent Infra** (containers / virtualization / kernel) → **Agent**
+🎯 **Focus (priority order):** **AI Infra** → **Agent Infra** (containers / virtualization / kernel)
 
 🎓 MS in Computer Science @ **Nanjing University** (保送, GPA 3.96, rank 1/125 @ WHU undergrad)
 🏗️ Currently: AI Infra Engineer Intern @ **Alibaba Cloud · Elastic Compute / Kangaroo**
@@ -19,7 +19,6 @@
 
 - 🚀 **AI Infra & Inference Systems** — building high-performance LLM runtimes (custom CUDA kernels, KV-cache management, speculative decoding, prefix caching)
 - 🐧 **Agent Infra at the OS layer** — micro-VM / sandbox / VMM work for Agent isolation, cold-start optimization (template-boot + memory overcommit), guest network-stack elimination
-- 🤖 **LLM-based Agents** — RAG, multi-agent / A2A coordination, long-term memory, context management, tool-use
 
 ---
 
@@ -34,13 +33,6 @@
 ![vLLM](https://img.shields.io/badge/vLLM-000000?logo=vllm&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-005C9C?logo=intel&logoColor=white)
-
-### Agent / LLM Apps
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white)
-![ReAct](https://img.shields.io/badge/ReAct-Agent-orange)
-![RAG](https://img.shields.io/badge/RAG-Vector%20Retrieval-blue)
-![Function Calling](https://img.shields.io/badge/Function--Calling-Tool%20Use-purple)
 
 ### Systems & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -64,7 +56,6 @@
 |---|---|
 | 🟦 **AI Infra** | Custom CUDA kernels, PagedAttention, speculative decoding (γ=8 → 3× speedup), prefix caching (TTFT −45%) |
 | 🟧 **Agent Infra** | VMM cold-start: pods 70→77, start time 2.8s→1.7s; guest net-stack removal design |
-| 🟩 **Agent** | RAG (6 data sources, 92% accuracy), A2A multi-agent, long-term memory (90%+ pass) |
 | 🟪 **OS / Distributed** | "Software-Defined Ubiquitous OS" — reported at **SOSP 2025 WUOS Workshop** |
 
 ---
