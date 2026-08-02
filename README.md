@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/Deyu-Kong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=AI+Infra+%E2%9A%99%EF%B8%8F+Agent+Infra+%F0%9F%94%A7;Building+the+substrate+for+LLMs;From+CUDA+kernels+to+VMM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Infrastructure+of+AI+and+Agent;Building+the+substrate+for+LLMs;From+CUDA+kernels+to+VMM" alt="Typing SVG" />
   </a>
 </p>
 
